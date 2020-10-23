@@ -39,29 +39,27 @@ Our solution is called deflationary farming, and it is quite simple in only two 
 1. Charge a fee on token transfers
 2. Users can earn the fee by farming
 
-#Deflationary Through Buy Backs n Burns#
-
-Tokens are bought and burned from the proceeds of the NFT commemorative weekly sales.
+Tokens are also bought and burned from the proceeds of the NFT commemorative weekly sales.
 This simple process means that those holding tokens are able to farm without infinite inflation.
 
 # Keeping **Liquidity Liquid**
 
-All transfers have to be approved by the CORE Transfers smart contract, which will block all
-liquidity withdrawals from Uniswap. This will guarantee a stable market, giving holders and farmers skin in the game.
+All transfers have to be approved by the NES & Atari Transfers smart contract, which will block all
+liquidity withdrawals from Uniswap. This will make the market stable and keep the community around long term.                                                                                                                                                                                                 
 
 # **Real Governance**
 
-CORE is designed for great community governance. The communtiy decides everything, from developer fees, to deciding on the fee approver contract, adding new pools, rebalancing, and even disabling pools in the CORE Transfer contract.
+Retro Farm is designed for great community governance. The communtiy decides everything and the team is your puppet and you are the master community.                                             
 
-If the holders decide COREVault should have a YFI pool, we can set
+If the holders decide RetroFarmsVaults should have a YFI pool, we can set
 the ratio of fees it will be able to distribute, as well as when people should be
 able to withdraw YFI tokens from it.
 
-This creates an incentive to hold even more CORE by the holders of YFI tokens. Let the governance begin.
+This creates an incentive to hold even more NES & Atari. Let the governance begin.
 
-# **10000 CORE Forever**
+# **1000000 NES & Atari Forever**
 
-Theres absolutely no way to create new CORE tokens. This means the
+Theres absolutely no way to create new NES or Atari tokens. This means the the
 circulating supply can only ever go down, period.
 
 
