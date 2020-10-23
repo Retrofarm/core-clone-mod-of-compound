@@ -1,43 +1,34 @@
-# How to build
+# Retro.Farm Core Clone with NES and Atari Two system competitive Governance Model....let the fun begin
 
-Here to fork CORE? I wish you the best of luck. Please add build steps in your fork and open a PR. It's the least you can do, right?
+
 
 # Introducing CORE
 
-CORE is a *non-inflationary* *cryptocurrency* that is designed to execute profit-generating strategies autonomously with a completely decentralized approach. In existing autonomous strategy-executing platforms a team or single developer is solely responsible for determining how locked funds are used to generate ROI. This is hazardous to the health of the fund as it grows, as it creates flawed incentives, and invites mistakes to be made. CORE does away with this dynamic and instead opts for one with decentralized governance.
+Retro.Farm NES & Atari are *non-inflationary* *Dual-Governance* *Cryptocurrency* with a twist. Tokens compete against each other for governance rule, popularity, and fanbase. They are designed to earn profit by popularity of the project. The more popular, the more profitable. Buy backs and burns will be done via NFT sales that we will have weekly. NES and Atari are a fixed amount and not mintable. Voting is important with Retro Farm because it is the fanbase or community that drives the popularity of the project, and the project delivers the weekly themed farming from the vote of the governance. If NES wins the vote that week, we do a Nintendo game, however if Atari wins, then we play pacman. Our ultimalte goal with the weekly new farms is to drive massive value for NES and Atari holders through buy backs from the NFT as well as the buy backs from the 3-5% weekly tokens from the new themed pools. Eventually there will be so little NES & Atari tokens that they will moon very hard. Hold tight and Hodl this one....after we launch the shit talking begins and NES & Atari go to outerspace with our token model.
 
-CORE tokens holders will be able to provide strategy contracts and vote on what goes live and when, in order to decentralize autonomous strategy execution. 5% of all profits generated from these strategies are used to auto market-buy the CORE token.
+Nes & Atari token holders will battle each other through voting to be the winners each week that gets to pick the newest farm theme.
 
-## Live Contracts
+## Staged Contracts not live yet
 
-*NEW*
 
-CORE v2:
-- [CORE LGE II Proxy - 0xf7ca8f55c54cbb6d0965bc6d65c43adc500bc591](https://etherscan.io/address/0xf7ca8f55c54cbb6d0965bc6d65c43adc500bc591)
-- [CORE LGE II Implementation - 0xa888494075cf7bc6f9c0956348fe206cffba4879](https://etherscan.io/address/0xa888494075cf7bc6f9c0956348fe206cffba4879)
-- [CORE v2 Globals Proxy - https://etherscan.io/address/0x255ca4596a963883afe0ef9c85ea071cc050128b](https://etherscan.io/address/0x255ca4596a963883afe0ef9c85ea071cc050128b)
-- [CORE v2 Globals Implementation - 0x22cc20d703c356a542af3814a631fdac31460672](https://etherscan.io/address/0x22cc20d703c356a542af3814a631fdac31460672)
+Retro Farm Router:
+ - [Retro Farm v1 Router Proxy - 
+ - [Retro Farm v1 Router Original Implementation - 
 
-COREv1Router:
- - [CORE v1 Router Proxy - 0x0ee460204887d98c297bb431e40b713f63ba78e0](https://etherscan.io/address/0x0ee460204887d98c297bb431e40b713f63ba78e0)
- - [CORE v1 Router Original Implementation - 0xbeb3075d3c231d23b03face34f50edf1f8d53a77](https://etherscan.io/address/0xbeb3075d3c231d23b03face34f50edf1f8d53a77)
-
-CORE Contracts:
- - [CORE Token - 0x62359ed7505efc61ff1d56fef82158ccaffa23d7](https://etherscan.io/address/0x62359ed7505efc61ff1d56fef82158ccaffa23d7)
- - [CoreVault (Proxied) - 0xc5cacb708425961594b63ec171f4df27a9c0d8c9](https://etherscan.io/address/0xc5cacb708425961594b63ec171f4df27a9c0d8c9)
+Retro Farm Contracts:
+ - [Retro Farm Token - 
+ - [Retro Farm Vault (Proxied) - 
  
- Governance Contracts:
- - [CoreVault Original Implementation - 0xd0ea2a4771e7ce09f2cc02d69ebf9d41a85cf161](https://etherscan.io/address/0xd0ea2a4771e7ce09f2cc02d69ebf9d41a85cf161)
- - [Fee Approver - 0x1d0db0a5f9f8cf5b69f804d556176c6bc9186587](https://etherscan.io/address/0x1d0db0a5f9f8cf5b69f804d556176c6bc9186587)
- - [Team Proxy Admin - 0x9cb1eeccd165090a4a091209e8c3a353954b1f0f](https://etherscan.io/address/0x9cb1eeccd165090a4a091209e8c3a353954b1f0f)
-
-Ecosystem Contracts:
- - [Uniswap CORE/WETH UNI-V2 LP Token Contract](https://etherscan.io/address/0x32ce7e48debdccbfe0cd037cc89526e4382cb81b)
+ Retro Farm Governance Contracts:
+ - [Retro Farm Vault Original Implementation - 
+ - [Retro Farm Fee Approver - 
+ - [Retro Farm Team Proxy Admin - 
+ - [Uniswap (NES/WETH)& (Atari/WETH) UNI-V2 LP Token Contract]
 
 
 # Initial Distribution
 
-The CORE team is kickstarting the initial distribution with a liquidity event. Contribute ETH to the CORE Fair Launch smart contract to receive tokens, and the contributed ETH will be matched and added to the Uniswap liquidity pool. Note that once added, liquidity tokens can not be removed from the CORE Uniswap LP pools. This is by design. Read on to learn about why..
+The Retro Farm team is jumpstarting the project with a liquidity event on Bounce.Finance for both Governance tokens, namely the NES & Atari tokens. By Contributing ETH during Presale, you will recieve tokens, and the contributed ETH will be added to the Uniswap liquidity pool. Once the pools are created the value will stay the same always, as they will not be removed.
 
 # **Deflationary Farming**
 
@@ -48,6 +39,9 @@ Our solution is called deflationary farming, and it is quite simple in only two 
 1. Charge a fee on token transfers
 2. Users can earn the fee by farming
 
+#Deflationary Through Buy Backs n Burns#
+
+Tokens are bought and burned from the proceeds of the NFT commemorative weekly sales.
 This simple process means that those holding tokens are able to farm without infinite inflation.
 
 # Keeping **Liquidity Liquid**
