@@ -1,14 +1,8 @@
-# Retro.Farm Core Clone with NES and Atari Two system competitive Governance Model....let the fun begin
-
-
-
-# Introducing CORE
-
-Retro.Farm NES & Atari are *non-inflationary* *Dual-Governance* *Cryptocurrency* with a twist. Tokens compete against each other for governance rule, popularity, and fanbase. They are designed to earn profit by popularity of the project. The more popular, the more profitable. Buy backs and burns will be done via NFT sales that we will have weekly. NES and Atari are a fixed amount and not mintable. Voting is important with Retro Farm because it is the fanbase or community that drives the popularity of the project, and the project delivers the weekly themed farming from the vote of the governance. If NES wins the vote that week, we do a Nintendo game, however if Atari wins, then we play pacman. Our ultimalte goal with the weekly new farms is to drive massive value for NES and Atari holders through buy backs from the NFT as well as the buy backs from the 3-5% weekly tokens from the new themed pools. Eventually there will be so little NES & Atari tokens that they will moon very hard. Hold tight and Hodl this one....after we launch the shit talking begins and NES & Atari go to outerspace with our token model.
+*Cryptocurrency* with a twist. Tokens compete against each other for governance rule, popularity, and fanbase. They are designed to earn profit by popularity of the project. The more popular, the more profitable. Buy backs and burns will be done via NFT sales that we will have weekly. NES and Atari are a fixed amount and not mintable. Voting is important with Retro Farm because it is the fanbase or community that drives the popularity of the project, and the project delivers the weekly themed farming from the vote of the governance. If NES wins the vote that week, we do a Nintendo game, however if Atari wins, then we play pacman. Our ultimalte goal with the weekly new farms is to drive massive value for NES and Atari holders through buy backs from the NFT as well as the buy backs from the 3-5% weekly tokens from the new themed pools. Eventually there will be so little NES & Atari tokens that they will moon very hard. Hold tight and Hodl this one....after we launch the shit talking begins and NES & Atari go to outerspace with our token model.
 
 Nes & Atari token holders will battle each other through voting to be the winners each week that gets to pick the newest farm theme.
 
-## Staged Contracts not live yet
+## Staged Contracts
 
 
 Retro Farm Router:
